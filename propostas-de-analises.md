@@ -4,10 +4,10 @@ Uma coisa a se considerar é que a SME, assim como outras secretarias, se baseia
 
 Determinamos que as análises serão feitas referentes a um período de **cinco anos**. Assim, como a última base disponível é de 2017, cobriremos os anos de 2013-2017. Pretendemos realizar as seguintes análises:
 
--> (1) Evolução do número de alunos por distrito e distribuição das nacionalidades;
--> (2) Setorização da análise (1) por (a) nacionalidade, (b) por sexo, (c) por idade e (d) por raça/cor;
--> (3) Evolução dos números de alunos matriculados, reprovados, transferidos, concluídos, falecidos, não comparecidos, reclassificados e que abandonaram o sistema -- total da rede e por distrito;
--> (4) Setorização da análise (3) pelas variáveis definidas na análise (2).
+* (1) Evolução do número de alunos por distrito e distribuição das nacionalidades;
+* (2) Setorização da análise (1) por (a) nacionalidade, (b) por sexo, (c) por idade e (d) por raça/cor;
+* (3) Evolução dos números de alunos matriculados, reprovados, transferidos, concluídos, falecidos, não comparecidos, reclassificados e que abandonaram o sistema -- total da rede e por distrito;
+* (4) Setorização da análise (3) pelas variáveis definidas na análise (2).
 
 Com essas análises pretendemos verificar, principalmente, se o comportamento dos alunos estrangeiros no sistema municipal é diferente dos alunos brasileiros -- possivelmente por uma barreira linguística ou de adaptação ao país -- e se o comportamento feminino é diferente do masculino -- possivelmente por uma carga de trabalho doméstico diferente entre os sexos, além do comportamento de alunos com superdotação ou deficiências. 
 
@@ -62,14 +62,3 @@ E o rendimento e a evasão escolar? É maior nessas DREs?
 
 Outros deliverables serão acrescentados conforme as conversas com a SME e a disponibilidade de determinados dados.
 Com o caminhar das análises, verificaremos que outras análises fazem sentido ou não e alteraremos a proposta.
-
-
-A desenvolver.
-
-# PROPOSTA 3
-
-A desenvolver.
-
-# PROPOSTA 4
-
-A desenvolver.
