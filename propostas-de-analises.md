@@ -1,4 +1,33 @@
-# PROPOSTA 1 - REFUGIADOS/TENDÊNCIAS DE MIGRAÇÃO
+# PROPOSTA 1 - TENDÊNCIAS GERAIS
+
+Uma coisa a se considerar é que a SME, assim como outras secretarias, se baseia em uma divisão administrativa do território distinta daquela usada pelos padrões utilizados pelas Subprefeituras e Desenvolvimento Urbano. Isso quer dizer que a área de cada DRE não necessariamente coincide com os parâmetros de distrito e bairro, extrapolando tais limites e englobando mais de um distrito em sua área administrativa. Assim, agregar bases de dados de outras secretarias pode se mostrar um problema. Além disso, as DREs agregam territórios bastante diversos, o que pode mascarar as nuances territoriais inicialmente pensadas. Por isso, depois decidimos alterar nossa proposta #1 inicial (mantida ao final do documento) para uma análise dos microdados de matrícula, sem uso de dados externos, que irá guiar a definição das próximas análises.
+
+Determinamos que as análises serão feitas referentes a um período de **cinco anos**. Assim, como a última base disponível é de 2017, cobriremos os anos de 2013-2017. Pretendemos realizar as seguintes análises:
+
+* (1) Evolução do número de alunos por distrito -- total e em cada etapa de ensino;
+* (2) Setorização da análise (1) por (a) nacionalidade, (b) por sexo, (c) por idade e (d) por raça/cor;
+* (3) Evolução dos números de alunos matriculados, reprovados, transferidos, concluídos, falecidos, não comparecidos, reclassificados e que abandonaram o sistema -- total da rede e por distrito, em todos os anos e em cada etapa de ensino;
+* (4) Setorização da análise (3) pelas variáveis definidas na análise (2).
+
+Com essas análises pretendemos verificar, principalmente, se o comportamento dos alunos estrangeiros no sistema municipal é diferente dos alunos brasileiros -- possivelmente por uma barreira linguística ou de adaptação ao país -- e se o comportamento feminino é diferente do masculino -- possivelmente por uma carga de trabalho doméstico diferente entre os sexos, além do comportamento de alunos com superdotação ou deficiências. 
+
+## PROPOSTA 2 - TIPO DE ESCOLA vs. APROVEITAMENTO ESCOLAR
+
+Seguindo as tendências da análise anterior, pretendemos com essa verificar se o tipo de escola (ex.: CEU, Escola Municipal, Escola Técnica, ou Conveniada) influencia no aproveitamento escolar (possibilidades definidas na análise #3 da proposta 1). Além disso, faremos verificações a respeito do turno e da etapa de ensino (ex.: educação infantil, ensino fundamental, ensino médio, ensino médio técnico).
+
+**AINDA SERÁ MAIS DESENVOLVIDA**
+
+## PROPOSTA 3 - ALUNOS COM DEFICIÊNCIA
+
+Assim como na proposta 2, retomaremos as análises da proposta 1, com foco específico nos alunos com deficiências físicas: autismo, surdez, cegueira, deficiência intelectual, deficiência múltipla, síndrome de Asperger, entre outras disponíveis na base; ou com superdotação. Acreditamos que nesse grupo há uma maior tendência a deixar o ensino público para o ensino privado, ou então para o abandono completo.
+
+Estamos especialmente interessados no desempenho de alunos surdos que estão em escolas bilíngues para surdos e nos que estão em escolas tradicionais.
+
+**AINDA SERÁ MAIS DESENVOLVIDA**
+
+----
+
+# PROPOSTA 1 (ORIGINAL) - REFUGIADOS/TENDÊNCIAS DE MIGRAÇÃO
 
 A ideia dessa análise é verificar tendências gerais nos padrões de migração por meio do número de estudantes estrangeiros por DRE.
 A hipótese que guia essa análise é que veremos um aumento de determinadas nacionalidades, causadas pelos fluxos migratórios de refugiados
@@ -33,15 +62,3 @@ E o rendimento e a evasão escolar? É maior nessas DREs?
 
 Outros deliverables serão acrescentados conforme as conversas com a SME e a disponibilidade de determinados dados.
 Com o caminhar das análises, verificaremos que outras análises fazem sentido ou não e alteraremos a proposta.
-
-# PROPOSTA 2
-
-A desenvolver.
-
-# PROPOSTA 3
-
-A desenvolver.
-
-# PROPOSTA 4
-
-A desenvolver.
